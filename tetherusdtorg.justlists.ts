@@ -3,11 +3,11 @@
     "tokens":[
         
         {
-            "symbol":"USDT ",
+            "symbol":"USDT",
             "address":"TRg7AuYmZpNybR8PqY4uFdEBwCtACGZrqB",
             "chainId":1,
             "decimals":6,
-            "name":"USD Tether ",
+            "name":"USD Tether",
             "logoURI":"https://coin.top/production/logo/usdtlogo.png"
         }
         
