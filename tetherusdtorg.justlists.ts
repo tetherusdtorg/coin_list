@@ -4,7 +4,7 @@
         
         {
             "symbol":"USDT ",
-            "address":"TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "address":"TRg7AuYmZpNybR8PqY4uFdEBwCtACGZrqB",
             "chainId":1,
             "decimals":6,
             "name":"USD Tether ",
